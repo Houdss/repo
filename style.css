@@ -15,4 +15,6 @@ body {
     height: 500px;
     width: 60px;
     color: red;
+    background-color: black;
 }
+h2 { color: red;}
